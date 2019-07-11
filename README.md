@@ -1,6 +1,6 @@
 
 ![Python|2.7](https://img.shields.io/badge/Python-2.7-brightgreen.svg)
-# dCrawL
+# CrawL
 <br>
 $ pkg install git
 <br>
